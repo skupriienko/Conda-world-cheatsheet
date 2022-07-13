@@ -1,5 +1,6 @@
 # Conda World cheat sheet
 
+![Conda World cheat sheet](./conda_world_cheatsheet.png)
 Managing Conda, Miniconda, and Anaconda, Environments, Python, Configuration, Packages. Removing Packages or Environments
 
 ## Install Miniconda
